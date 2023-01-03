@@ -1,1 +1,1 @@
-web: gunicorn app:extract
+web: gunicorn app:app
